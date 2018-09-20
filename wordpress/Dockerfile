@@ -1,4 +1,4 @@
-from huangwh/php-fpm:5.4
+from howie/php-fpm:5.4
 
 add init.sh /init.sh
 

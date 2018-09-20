@@ -4,7 +4,7 @@
 #
 # Dockerizing php-fpm: Dockerfile for building php-fpm images
 #
-FROM       huangwh/centos:7.1
+FROM       howie191/centos:7.1
 MAINTAINER huangweihua
 
 # Set environment variable

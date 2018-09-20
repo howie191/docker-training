@@ -4,7 +4,7 @@
 #
 # Dockerizing Mariadb: Dockerfile for building Mariadb images
 #
-FROM huangwh/centos:7.1
+FROM howie191/centos:7.1
 MAINTAINER huangweihua
 
 ENV DATA_DIR /var/lib/mysql
